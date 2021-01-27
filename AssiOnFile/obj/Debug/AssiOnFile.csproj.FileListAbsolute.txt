@@ -1,0 +1,7 @@
+J:\DotnetBatchJan2021\ConsoleAssignments\AssiOnFile\AssiOnFile\bin\Debug\AssiOnFile.exe.config
+J:\DotnetBatchJan2021\ConsoleAssignments\AssiOnFile\AssiOnFile\bin\Debug\AssiOnFile.exe
+J:\DotnetBatchJan2021\ConsoleAssignments\AssiOnFile\AssiOnFile\bin\Debug\AssiOnFile.pdb
+J:\DotnetBatchJan2021\ConsoleAssignments\AssiOnFile\AssiOnFile\obj\Debug\AssiOnFile.csprojAssemblyReference.cache
+J:\DotnetBatchJan2021\ConsoleAssignments\AssiOnFile\AssiOnFile\obj\Debug\AssiOnFile.csproj.CoreCompileInputs.cache
+J:\DotnetBatchJan2021\ConsoleAssignments\AssiOnFile\AssiOnFile\obj\Debug\AssiOnFile.exe
+J:\DotnetBatchJan2021\ConsoleAssignments\AssiOnFile\AssiOnFile\obj\Debug\AssiOnFile.pdb
